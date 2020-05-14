@@ -1,11 +1,11 @@
 # automatic-file-delete
 Delete file automatically after some time 
 
-Functionality :
+# Functionality :
 
 This function will remove the file from uploads foldder of your wordpress website automatically after 10 seconds.
 
-Flow:
+# Flow:
 
 This follows basic flow decribed in following order
 
@@ -13,7 +13,7 @@ This follows basic flow decribed in following order
 2) Click on button below text box.
 3) After 10 seconds file will be deleted automatically from existing folder.
 
-Technologies used:
+# Technologies used:
 
 1) Wordpress
 2) Jquery
